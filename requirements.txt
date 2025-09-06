@@ -1,4 +1,6 @@
 numpy
-opencv-python 
-imgbeddings 
+opencv-python
 psycopg2-binary
+Pillow
+ipython
+ipykernel
